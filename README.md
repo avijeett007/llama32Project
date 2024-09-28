@@ -80,6 +80,12 @@ This project is licensed under the MIT License.
 - Hugging Face for providing the model hosting and APIs.
 - The Gradio team for their excellent UI framework.
 
+## IMPORTANT: FOR SOLOPRENUR
+
+If you're looking to become a soloprenur or dream to launch your SaaS/MicroSaaS, You can checkout my new course on creating SaaS Faster using AI. The Course is designed to force you take action.
+[Check details from here](https://knolabs.biz/upsell-saas-course-2139-9605)
+
+
 ---
 
 Don't forget to like, subscribe, and hit the notification bell on [Kno2gether](https://www.youtube.com/@Kno2gether) for more AI and machine learning content!
